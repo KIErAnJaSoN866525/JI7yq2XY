@@ -2,7 +2,6 @@ Dockerfile
 .dockerignore
 testresults/
 **/bin/
-**/obj/
 **/global.json
 **/Dockerfile*
 **/.dockerignore*
