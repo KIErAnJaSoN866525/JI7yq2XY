@@ -12,7 +12,6 @@ ratings:
     - chef/**/*
     - lib/**/*
     - bin/**/*
-
 exclude_paths:
   - spec/**/*
   - vendor/**/*
