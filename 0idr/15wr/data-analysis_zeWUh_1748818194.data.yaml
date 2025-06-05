@@ -112,7 +112,6 @@ repos:
     -   id: shellcheck
         args: ["--severity=warning"]
 -   repo: local
-    hooks:
     -   id: pyright
         # note: assumes python env is setup and activated
         name: pyright
